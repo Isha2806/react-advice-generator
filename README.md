@@ -1,4 +1,4 @@
-# Getting Started with Create React-advice-generator App
+# Getting Started with  React-advice-generator App
 
 
 ### `npm start`
